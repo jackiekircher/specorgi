@@ -13,7 +13,7 @@ method. For combining mods please see the multi-step installation instructions.
 ** Make sure to backup the alltex.wad and alltex.wad.wix files in the /Data/Textures
    directory of your Spelunky installation path. **
 
-1. Replace these files with the alltex.wad and alltext.wad.wix files for the mod.
+1) Replace these files with the alltex.wad and alltext.wad.wix files for the mod.
 
 ------------------------
 Multi-step Installation:
