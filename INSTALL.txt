@@ -27,7 +27,8 @@ If you already have mods installed then you can choose to just overwrite individ
 2) Follow the directions in the thread and extrat the contents of alltex.wad using either
    the command line script or the batch files.
 3) In the extracted alltex folder, replace ATSTART/journalmons.png with journalmons.png,
-   and MONSTERS/monstersbig3.png with monstersbig.png 
+   MONSTERS/monstersbig3.png with monstersbig.png, and INTRO/desert.png
+   with desert.png
      * note, if you are already using mods that alter these files they will be overwritten.
        please feel free to merge the specorgi files with other mods you have using any image
        manipulation program that can save png files.
