@@ -1,4 +1,7 @@
 Specorgi is a mod for Spelunky HD by Mossmouth that replaces the pug damsel with a corgi. I've tried to stay as true to the original art style as I could.
+This mod is currently compatible with version 1.4 of Spelunky HD, for
+compatibilty with version 1.0-1.3 look for Specorgi 1.0 under the
+releases tab above.
 
 ![specorgi
 screenshot](https://raw.github.com/jackiekircher/specorgi/master/preview.png "specorgi preview")
