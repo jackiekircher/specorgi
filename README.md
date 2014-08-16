@@ -9,7 +9,7 @@ screenshot](https://raw.github.com/jackiekircher/specorgi/master/preview.png "sp
 
 ###One-step Installation:
 
-If you don't want to deal with downloading the Speluny Modding tool and
+If you don't want to deal with downloading the Spelunky Modding tool and
 unpacking/repacking textures, then follow this one-step installation. The primary
 drawback is that you won't be able to install more than just this mod using this
 method. For combining mods please see the multi-step installation instructions.
